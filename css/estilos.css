@@ -23,5 +23,19 @@ h2 {
     font-size: 2rem;
 }
 
+.tareas {
+    list-style: none;
+}
+
+.tareas__link {
+    text-decoration: none;
+    color: yellow;
+    transition: 0.3s all ease-in;
+}
+
+.tareas__link:hover{
+    font-size: 1.2rem;
+}
+
 
 
